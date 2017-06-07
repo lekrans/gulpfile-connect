@@ -1,0 +1,16 @@
+{
+  "name": "lekrans-gulpfile-connect",
+  "version": "1.0.11",
+  "description": "Gulpfile with basic livereload",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Lekrans",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0"
+  }
+}
